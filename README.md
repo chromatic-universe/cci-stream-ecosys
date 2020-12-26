@@ -1,1 +1,0 @@
-# cci-stream-ecosys
