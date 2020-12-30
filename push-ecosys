@@ -1,0 +1,3 @@
+#! /bin/bash
+
+for dir in $(find . -name ".git"); do cd ${dir%/*}; git push origin; cd -; done
