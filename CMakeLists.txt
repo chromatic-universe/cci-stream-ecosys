@@ -84,7 +84,7 @@ add_subdirectory(cci-unbound-marshaler)
 add_subdirectory(imap2020)
 #
 # stream graph distribution agent
-add_subdirectory(cci-stream-gda)
+#add_subdirectory(cci-stream-gda)
 
 
 
